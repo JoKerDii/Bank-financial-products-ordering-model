@@ -39,4 +39,4 @@ Every customer has features below:
 
 - y (bought or not the financial service)
 
-This project is from (Datacastle)[http://www.dcjingsai.com/]
+This project is from [Datacastle](http://www.dcjingsai.com/)
